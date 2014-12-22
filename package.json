@@ -1,6 +1,6 @@
 {
   "name": "shnappy-randomcode",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Generates random bits of text.",
   "main": "lib/index.js",
   "scripts": {
@@ -8,14 +8,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/dwnz/shnappy-randomcode.git"
+    "url": "https://github.com/appmechanix/shnappy-randomcode.git"
   },
   "author": "dwnz",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/dwnz/shnappy-randomcode/issues"
+    "url": "https://github.com/appmechanix/shnappy-randomcode/issues"
   },
-  "homepage": "https://github.com/dwnz/shnappy-randomcode",
+  "homepage": "https://github.com/appmechanix/shnappy-randomcode",
   "devDependencies": {
     "nodeunit": "^0.9.0"
   }
